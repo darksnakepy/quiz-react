@@ -1,0 +1,70 @@
+[
+    {
+      "question": "What is your favorite horror character?",
+      "answer": [
+        {
+          "answer": "Michael Myers",
+          "score": 3
+        },
+        {
+          "answer": "Freddy Krueger",
+          "score": 2
+        },
+        {
+          "answer": "Jason Voohres",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "question": "What is your favorite slasher?",
+      "answer": [
+        {
+          "answer": "Friday the 13th",
+          "score": 1
+        },
+        {
+          "answer": "Scream",
+          "score": 2
+        },
+        {
+          "answer": "Halloween",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "If you were the killer, how would you kill your victim?",
+      "answer": [
+        {
+          "answer": "Choke them",
+          "score": 1
+        },
+        {
+          "answer": "Stab them",
+          "score": 2
+        },
+        {
+          "answer": "Shoot them",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "question": "Who's your favourite horror main character",
+      "answer": [
+        {
+          "answer": "Laurie Strode",
+          "score": 1
+        },
+        {
+          "answer": "Ellen Ripley",
+          "score": 3
+        },
+        {
+          "answer": "Quentin Smith",
+          "score": 2
+        }
+      ]
+    }
+  ]
